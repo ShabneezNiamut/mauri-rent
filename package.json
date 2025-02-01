@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@stripe/react-stripe-js": "^2.8.1",
+    "@stripe/stripe-js": "^4.8.0",
+    "chart.js": "^4.4.7",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.9.16",
+    "react-chartjs-2": "^5.2.0",
+    "stripe": "^17.2.0"
+  }
+}
